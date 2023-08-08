@@ -1,6 +1,6 @@
-# SSTSENet: Deep Spectral-Spatial Transformer with Squeeze and Excitation Network for Hyperspectral Image Classification
+# SSTSENet:  Spectral-Spatial Transformer with SENet for HSIC
 
-This repository contains the official code implementation for the paper titled "SSTSENet: Deep Spectral-Spatial Transformer with Squeeze and Excitation Network for Hyperspectral Image Classification".
+This repository contains the official code implementation for the paper titled "Spectral-Spatial Transformer with SENet for HSIC".
 
 **Please note that the code will be uploaded soon after the paper's publication.**
 
