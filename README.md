@@ -1,4 +1,4 @@
-# MSTSENet:  multiscale Spectral-Spatial Transformer with SENet for HSIC
+# MSTSENet:  multiscale Transformer with SENet for HSIC
 
 This repository contains the official code implementation for the paper titled "Spectral-Spatial Transformer with SENet for HSIC".
 
